@@ -329,7 +329,7 @@
 				displaying the answer, try turning your phone sideways.
 			{:else}
 				Select intervals, set a tempo and starting pitch, then click
-				generate to play the exercise back.
+				generate to play the exercise back
 			{/if}
 		</p>
 		{#if !buttonsInvisible}
